@@ -67,5 +67,22 @@
     position: relative;
 }
 
+.marquee{
+    margin-top: 20px;
+}
+
+.m-button label{
+    background: #10b470;
+    padding: 15px;
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.marqu{
+    font-size: 25px;
+
+}
+
 
 
